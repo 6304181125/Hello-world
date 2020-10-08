@@ -4,7 +4,7 @@
  main(List<String> args) {
    KetuaHima kepala = new KetuaHima();
 
-   kepala.setNama("Diah Ayu Oktaviani");
+   kepala.setNama("Saniati");
    kepala.setNrp(6304181132);
    kepala.setJurusan("Teknik Informatika");
 
